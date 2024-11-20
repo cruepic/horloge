@@ -1,0 +1,40 @@
+#time-based-style {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#time-display {
+    font-size: 4rem;
+    color: #26568d;
+    padding: 10%;
+}
+
+#say-hi{
+    color: lightblue;
+    font-size: 2.5rem;
+}
+
+.aurore {
+    background-color: #ffbe0b;
+}
+
+.matin {
+    background-color: #fb5607;
+}
+
+.apres-midi {
+    background-color: #ff006e;
+}
+
+.soiree {
+    background-color: #8338ec;
+}
+
+.nuit {
+    background-color: #3a86ff;
+}
+
